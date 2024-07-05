@@ -1,0 +1,25 @@
+.box{
+    align-items: first baseline;
+    vertical-align: top;
+    height: 50px;
+    width: 100px;
+    
+    border: 1px solid black;
+    color:black;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(203, 184, 220);
+
+}
+#box{
+    height: auto;
+    width: auto;
+    border: 5px;
+    background-color: brown;
+    color: aqua;
+    text-align: center;
+}
+#head{
+    text-align: center;
+    
+}
